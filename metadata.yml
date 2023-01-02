@@ -2,7 +2,6 @@
 :id: 130296228
 :submitters:
 - :name: Bryan Matthew
-  :email: bmatth12@asu.edu
 :created_at: !ruby/object:ActiveSupport::TimeWithZone
   utc: 2022-08-11 06:44:54.062754000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
